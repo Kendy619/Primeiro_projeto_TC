@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620700190 source:c:\users\kendy\onedrive\Área de trabalho\p3_c\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+	<locale.h>
+	<stdlib.h>
+	<cstring>
+	<string.h>
+	<vector>
+
